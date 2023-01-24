@@ -7,7 +7,7 @@ export default function Avatar() {
             <img
               height={90}
               width={90}
-              src='https://avatars.githubusercontent.com/u/110599327?v=4'
+              src=''
               className="rounded-full"
               alt='Adem Can Certel'
             />
