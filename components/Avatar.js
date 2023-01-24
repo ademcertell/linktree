@@ -7,7 +7,7 @@ export default function Avatar() {
             <img
               height={90}
               width={90}
-              src=''
+              src='https://avatarfiles.alphacoders.com/320/320459.jpg'
               className="rounded-full"
               alt='Adem Can Certel'
             />
