@@ -5,7 +5,7 @@ export default function Link() {
         <div className="flex justify-center items-center text-white">
             <ul className="w-[244px] sm:w-[500px] font-semibold ">
                 <li>
-                    <a href="https://ademcancertel.vercel.app" target="_blank" className="cards" >
+                    <a href="https://ademcan.dev" target="_blank" className="cards" >
                         Personal Site
                     </a>
                 </li>
