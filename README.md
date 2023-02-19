@@ -5,4 +5,5 @@
 # Linktree ✨
 
 Nextjs, TailwindCSS Linktree, which I made using their technology.
- [React-Icons](https://react-icons.github.io/react-icons/), [Tippyjs](https://github.com/atomiks/tippyjs-react) ı used.
+
+ [React-Icons](https://react-icons.github.io/react-icons/), [Tippyjs](https://github.com/atomiks/tippyjs-react) I Used.
